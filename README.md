@@ -5,4 +5,4 @@
 
 #### You can also access my Unreal Engine fork with various bug fixes, improvements and custom PhysX 4.1 & Nvidia Blast implementation from [here](https://github.com/dyanikoglu/UnrealEngine) (Unreal Engine source code access is required)
 
-#### Lastly, you can follow [Project Borealis](https://projectborealis.com) to stay updated about the project I have been contributing for a while.
+#### Lastly, you can follow [Project Borealis](https://projectborealis.com) to stay updated about the Half-Life project I have been contributing for a while.
