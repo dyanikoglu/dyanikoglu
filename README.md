@@ -3,10 +3,6 @@
   <a href="https://www.linkedin.com/in/dyanikoglu/"><img src="https://badgen.net/badge/Linkedin/Doğa%20Can%20Yanıkoğlu"></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dyanikoglu&hide_rank=true">
-</p>
-
 ## Howdy 🤠 
 
 #### You can find my recent work on the pinned repositories below 👇, or check out my other work from the repositories tab above 👆
