@@ -1,5 +1,6 @@
 <p align="center">
   <a href="https://twitter.com/intent/follow?screen_name=dcyanikoglu"><img src="https://badgen.net/twitter/follow/dcyanikoglu?icon=twitter"></a>
+  <a href="https://www.youtube.com/channel/UCgPIm9iWMCJRWnL6rbLu68A/videos"><img src="https://badgen.net/badge/Youtube/Do%C4%9Fa/red"></a>
   <a href="https://www.linkedin.com/in/dyanikoglu/"><img src="https://badgen.net/badge/Linkedin/Doğa%20Can%20Yanıkoğlu"></a>
 </p>
 
