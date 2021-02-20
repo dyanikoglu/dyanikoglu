@@ -1,4 +1,6 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C02K2TI) 
+<p align="center">
+  <a href="https://ko-fi.com/C0C02K2TI"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
+</p>
 
 ## Howdy 🤠 
 
