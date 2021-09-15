@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ko-fi.com/C0C02K2TI"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
+  <a href="https://ko-fi.com/dyanikoglu"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
 </p>
 
 ## Howdy 🤠 
