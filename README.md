@@ -4,7 +4,7 @@
 
 ## Howdy 🤠
 
-Hi, I'm Doğa. I've studied computer science at TOBB University of Economics & Technology, and I've been working with Unreal Engine since 2015..
+Hi, I'm Doğa.
 
 You can visit [The Nightscarred: Forgotten Gods](https://store.steampowered.com/app/2427530/The_Nightscarred_Forgotten_Gods/) for the game I'm currently working on.
 
